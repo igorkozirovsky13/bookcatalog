@@ -1,0 +1,1 @@
+<font color="<?php print $data['color']; ?>"><?php print $data['message']; ?></font>
